@@ -1,0 +1,5 @@
+project: cmd
+target: cmd
+
+cmds:
+  - cmd: /fuzz_cmd
